@@ -1,0 +1,3 @@
+# Only needed for examples/05_faiss_openai_variant.py
+langchain-openai>=0.2
+faiss-cpu>=1.8

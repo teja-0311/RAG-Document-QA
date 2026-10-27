@@ -1,0 +1,17 @@
+# Core
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+langchain-google-genai>=2.0
+langchain-chroma>=0.2
+chromadb>=0.5
+
+# Document loaders
+pypdf>=4.0
+beautifulsoup4>=4.12   # used by WebBaseLoader
+
+# Config + example scripts
+python-dotenv>=1.0
+requests>=2.31
+google-genai>=1.0      # examples/01_gemini_api_basics.py
+grandalf>=0.8          # examples/02_langchain_fundamentals.py (ASCII chain graph)
