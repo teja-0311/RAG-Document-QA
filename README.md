@@ -68,8 +68,8 @@ Created locally when you run it (git-ignored, never committed):
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/<your-username>/langchain-gemini-rag.git
-cd langchain-gemini-rag
+git clone https://github.com/<your-username>/RAG-Document-QA.git
+cd RAG-Document-QA
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
